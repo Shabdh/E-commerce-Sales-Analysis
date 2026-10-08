@@ -1,0 +1,15 @@
+// Import clean_orders.csv with table name clean_orders first.
+// Create each measure separately. Format money as INR, margin as Percentage.
+Total Sales = SUM(clean_orders[sales])
+
+Total Profit = SUM(clean_orders[profit])
+
+Orders = DISTINCTCOUNT(clean_orders[order_id])
+
+Customers = DISTINCTCOUNT(clean_orders[customer_id])
+
+Profit Margin = DIVIDE([Total Profit], [Total Sales])
+
+Average Order Value = DIVIDE([Total Sales], [Orders])
+
+Loss Making Orders = CALCULATE([Orders], clean_orders[profit] < 0)
