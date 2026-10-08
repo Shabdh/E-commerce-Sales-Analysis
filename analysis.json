@@ -1,0 +1,277 @@
+{
+  "kpis": [
+    {
+      "orders": 1200,
+      "customers": 296,
+      "sales": 5489435.0,
+      "profit": 1171445.0,
+      "margin_pct": 21.34,
+      "average_order_value": 4574.53,
+      "loss_making_orders": 79
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2025-01",
+      "orders": 71,
+      "sales": 350350.0,
+      "profit": 68640.0
+    },
+    {
+      "month": "2025-02",
+      "orders": 80,
+      "sales": 385540.0,
+      "profit": 63670.0
+    },
+    {
+      "month": "2025-03",
+      "orders": 97,
+      "sales": 511495.0,
+      "profit": 88965.0
+    },
+    {
+      "month": "2025-04",
+      "orders": 96,
+      "sales": 403010.0,
+      "profit": 88550.0
+    },
+    {
+      "month": "2025-05",
+      "orders": 64,
+      "sales": 326895.0,
+      "profit": 54105.0
+    },
+    {
+      "month": "2025-06",
+      "orders": 84,
+      "sales": 443625.0,
+      "profit": 92695.0
+    },
+    {
+      "month": "2025-07",
+      "orders": 97,
+      "sales": 461240.0,
+      "profit": 115990.0
+    },
+    {
+      "month": "2025-08",
+      "orders": 98,
+      "sales": 438260.0,
+      "profit": 84350.0
+    },
+    {
+      "month": "2025-09",
+      "orders": 96,
+      "sales": 409300.0,
+      "profit": 103920.0
+    },
+    {
+      "month": "2025-10",
+      "orders": 153,
+      "sales": 710310.0,
+      "profit": 158610.0
+    },
+    {
+      "month": "2025-11",
+      "orders": 144,
+      "sales": 565580.0,
+      "profit": 138500.0
+    },
+    {
+      "month": "2025-12",
+      "orders": 120,
+      "sales": 483830.0,
+      "profit": 113450.0
+    }
+  ],
+  "categories": [
+    {
+      "category": "Fashion",
+      "orders": 392,
+      "sales": 1247215.0,
+      "profit": 496425.0,
+      "margin_pct": 39.8
+    },
+    {
+      "category": "Electronics",
+      "orders": 398,
+      "sales": 2127855.0,
+      "profit": 392655.0,
+      "margin_pct": 18.45
+    },
+    {
+      "category": "Home",
+      "orders": 410,
+      "sales": 2114365.0,
+      "profit": 282365.0,
+      "margin_pct": 13.35
+    }
+  ],
+  "regions": [
+    {
+      "region": "West",
+      "orders": 310,
+      "sales": 1428130.0,
+      "profit": 279520.0
+    },
+    {
+      "region": "South",
+      "orders": 308,
+      "sales": 1399090.0,
+      "profit": 307330.0
+    },
+    {
+      "region": "North",
+      "orders": 293,
+      "sales": 1386320.0,
+      "profit": 312330.0
+    },
+    {
+      "region": "East",
+      "orders": 279,
+      "sales": 1243375.0,
+      "profit": 263155.0
+    },
+    {
+      "region": "Unknown",
+      "orders": 10,
+      "sales": 32520.0,
+      "profit": 9110.0
+    }
+  ],
+  "products": [
+    {
+      "product": "Sneakers",
+      "units": 313,
+      "sales": 638520.0,
+      "profit": 253000.0
+    },
+    {
+      "product": "Backpack",
+      "units": 389,
+      "sales": 433940.0,
+      "profit": 168490.0
+    },
+    {
+      "product": "Smartwatch",
+      "units": 310,
+      "sales": 1080450.0,
+      "profit": 139960.0
+    },
+    {
+      "product": "Keyboard",
+      "units": 386,
+      "sales": 499275.0,
+      "profit": 139335.0
+    },
+    {
+      "product": "Headphones",
+      "units": 293,
+      "sales": 548130.0,
+      "profit": 113360.0
+    },
+    {
+      "product": "Office chair",
+      "units": 320,
+      "sales": 1519925.0,
+      "profit": 101485.0
+    },
+    {
+      "product": "Storage box",
+      "units": 380,
+      "sales": 263560.0,
+      "profit": 91340.0
+    },
+    {
+      "product": "Desk lamp",
+      "units": 354,
+      "sales": 330880.0,
+      "profit": 89540.0
+    },
+    {
+      "product": "T-shirt",
+      "units": 298,
+      "sales": 174755.0,
+      "profit": 74935.0
+    }
+  ],
+  "discounts": [
+    {
+      "discount_rate": 0.0,
+      "orders": 197,
+      "sales": 1023500.0,
+      "profit": 343130.0,
+      "margin_pct": 33.53
+    },
+    {
+      "discount_rate": 0.05,
+      "orders": 198,
+      "sales": 1028945.0,
+      "profit": 298825.0,
+      "margin_pct": 29.04
+    },
+    {
+      "discount_rate": 0.1,
+      "orders": 231,
+      "sales": 988290.0,
+      "profit": 264430.0,
+      "margin_pct": 26.76
+    },
+    {
+      "discount_rate": 0.15,
+      "orders": 189,
+      "sales": 972315.0,
+      "profit": 187435.0,
+      "margin_pct": 19.28
+    },
+    {
+      "discount_rate": 0.25,
+      "orders": 201,
+      "sales": 855375.0,
+      "profit": 81865.0,
+      "margin_pct": 9.57
+    },
+    {
+      "discount_rate": 0.35,
+      "orders": 184,
+      "sales": 621010.0,
+      "profit": -4240.0,
+      "margin_pct": -0.68
+    }
+  ],
+  "loss_products": [
+    {
+      "product": "Office chair",
+      "loss_orders": 33,
+      "loss": -42200.0
+    },
+    {
+      "product": "Smartwatch",
+      "loss_orders": 25,
+      "loss": -17100.0
+    },
+    {
+      "product": "Headphones",
+      "loss_orders": 18,
+      "loss": -2470.0
+    },
+    {
+      "product": "Keyboard",
+      "loss_orders": 2,
+      "loss": -50.0
+    },
+    {
+      "product": "Desk lamp",
+      "loss_orders": 1,
+      "loss": -15.0
+    }
+  ],
+  "quality": {
+    "raw_rows": 1220,
+    "clean_rows": 1200,
+    "duplicates_removed": 20,
+    "regions_normalized": 15,
+    "missing_regions_labeled_unknown": 10,
+    "validation": "passed"
+  }
+}
